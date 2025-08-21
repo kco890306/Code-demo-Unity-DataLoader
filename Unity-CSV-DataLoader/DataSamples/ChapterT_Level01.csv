@@ -1,0 +1,5 @@
+UnitName,WaveNumber,SummonTime,Faction,Behavior,CheckPoint01,CheckPoint02,CheckPoint03,CheckPoint04,CheckPoint05,CheckPoint06,CheckPoint07,CheckPoint08,CheckPoint09,CheckPoint10
+Archer,1,0,Enemy,Mob,0*40(5,0*25 (1.5,-5* 22,5*19,0* 5(1,-8* -10,8* -25,0* -20( 25,0* -40,
+Assassin,1,1,Enemy,Mob,0*40(1,0*25 (0.5,-12* 22,-10* 15,-13* -3,0* 0(23,0* -20.5 (1,0* -40,,
+Assassin,1,1.5,Enemy,Mob,0*40( 0.5,0*25 (0.5,-12* 22,-10* 15,-13* -3,-2* 2(23,-0.5* -20,,,
+Assassin,1,1.5,Enemy,Mob,0*40( 0.5,0*25 (0.5,-12* 22,-10* 15,-13* -3,2* 2(23,0.5* -20,,,

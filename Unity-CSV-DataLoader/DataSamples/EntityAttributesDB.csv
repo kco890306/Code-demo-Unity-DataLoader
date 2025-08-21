@@ -1,0 +1,9 @@
+AttributeName,Health,Shield,Mentality,Attack,Defense,Resistance,Range,AttackSpeed,MoveSpeed,Size,InitialEffectDic,ResistEffectDic,ClaerEffectDic,ExtraStackRatio
+Caster,16,16,14,8,7,0,13,9,45,1,,Flame*99-Blaze*2,,0
+Archer,18,18,11,7,9,0,12,15,70,1,LifeSteal*1,,,0
+Assassin,23,25,12,9,11,0,8,10,80,1,,Taunt*1,,0
+Defender,26,9999,10,7,14,0,6,9,40,1,CyberTourette*1,Stun*1,,0
+,,,,,,,,,,,,,,
+Yilulu,16,16,14,8,7,0,13,9,45,1,,Taunt*1,,0
+Bala,26,39,10,7,14,0,6,9,40,1,CyberTourette*1,Stun*1,,0
+Draka,23,25,12,9,11,0,8,10,80,1,LifeSteal*1,Taunt*1,,0

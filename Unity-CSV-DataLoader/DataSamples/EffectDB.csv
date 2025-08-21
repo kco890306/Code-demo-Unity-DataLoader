@@ -1,0 +1,5 @@
+ThisEffectType,StackDuration,MaxStack,StackedModify,RemoveStacks,IsEffectShow,IsSourceDependent,IsStackResetTimer,IsOverStack
+Flame,1,9,0,1,TRUE,FALSE,FALSE,TRUE
+Blaze,0.5,9,0,1,TRUE,FALSE,FALSE,FALSE
+Slow,1,9,0,1,TRUE,FALSE,FALSE,TRUE
+Root,0.5,9,-1,1,TRUE,FALSE,FALSE,FALSE

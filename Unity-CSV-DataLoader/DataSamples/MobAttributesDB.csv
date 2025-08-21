@@ -1,0 +1,10 @@
+AttributeName,Health,Shield,Mentality,Attack,Defense,Resistance,Range,AttackSpeed,MoveSpeed,Size,InitialEffectDic,ResistEffectDic,ClaerEffectDic,ExtraStackRatio
+Goblin_M_Basic,16,16,14,8,7,0,13,9,45,1,,,,0
+Goblin_M_Mad,16,16,14,8,7,0,13,9,45,1,,CyberTourette*1,,0
+Goblin_E_Basic,16,16,14,8,7,0,13,9,45,1,,,,0
+Goblin_E_Mage,16,16,14,8,7,0,13,9,45,1,,Flame*2,,0
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+Slime_M_Basic,16,16,14,8,7,0,13,9,45,1,,,,0
+Slime_M_Flame,16,16,14,8,7,0,13,9,45,1,,Flame*3,,0
+Slime_E_Golden,16,16,14,8,7,0,13,9,45,1,,,,0

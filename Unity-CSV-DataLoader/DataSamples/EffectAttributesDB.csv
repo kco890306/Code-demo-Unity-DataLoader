@@ -1,0 +1,5 @@
+AttributeName,Health,Shield,Mentality,Attack,Defense,Resistance,Range,AttackSpeed,MoveSpeed,Size,InitialEffectDic,ResistEffectDic,ClaerEffectDic,ExtraStackRatio
+Flame,0,0,0,0,0,0,0,0,0,0,,,,0
+Blaze,0,0,0,0,0,0,0,0,0,0,,Flame*99,Flame*99,0
+Slow,0,0,0,0,0,0,0,0,-20%,0,,,,0.5
+Root,0,0,0,0,0,0,0,0,-100%,0,,Slow*99,Slow*99,0
